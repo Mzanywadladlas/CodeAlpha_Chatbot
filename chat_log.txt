@@ -1,0 +1,19 @@
+[2026-02-20 12:16:21] You: hi
+[2026-02-20 12:16:21] Bot: Hello! How can I help you?
+[2026-02-20 12:16:32] You: what is your name?
+[2026-02-20 12:16:32] Bot: I am CodeAlpha Bot.
+[2026-02-20 12:16:36] You: help
+[2026-02-20 12:16:36] Bot: 
+I can:
+1. Tell a joke (type: joke)
+2. Explain chatbots (type: chatbot)
+3. Exit (type: exit)
+
+[2026-02-20 12:16:39] You: joke
+[2026-02-20 12:16:40] Bot: What is red and smells like blue paint? - Red paint!
+[2026-02-20 12:16:58] You: how
+[2026-02-20 12:16:58] Bot: I don't understand. Type 'help'.
+[2026-02-20 12:17:09] You: chatbot
+[2026-02-20 12:17:09] Bot: A chatbot is a program that talks with users using text or voice.
+[2026-02-20 12:17:16] You: exit
+[2026-02-20 12:17:16] Bot: Goodbye 👋
