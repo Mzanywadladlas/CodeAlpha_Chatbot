@@ -34,7 +34,7 @@ I can:
     elif user_input == "joke":
         return get_joke()
 
-    elif user_input == "hi":
+    elif user_input == ["hi", "hello"]:
         return "Hello! How can I help you?"
     
     elif user_input == "how are you":
